@@ -1,0 +1,89 @@
+.work{
+ 
+	width: 100%;
+}
+
+.projects{
+	display: flex;
+	width: 100%; 
+	justify-content: center;
+	padding: 50px 0px;
+	padding-right: 150px;
+	border-style:  solid  ;
+	border-radius: 25px;
+	border-bottom-width: 1.5px;
+
+}
+.projects:hover{
+	border-color: rgb(255,255,0);
+}
+.head1{
+	color: white;
+	margin-left: 50px;
+	padding-top: 20px;
+}
+.data1{
+	color: white;
+	padding-left: 150px;
+}
+ /* ---------------------------------22222222222222222222222222222----------------*/
+.skills{
+  display: inline-flex;
+  padding: 50px 0;
+  padding-left: 180px;
+	width: 100%; 
+	flex-direction: row-reverse;
+  justify-content: center;
+  border-style: solid;
+  border-width: 3px 3px;
+  border-radius: 25px;
+  border-bottom-width: 1.5px;
+   
+}
+.skills:hover{
+	border-color: rgb(255,255,0);
+}
+ .head2{
+ 	color: white;
+ 	padding-top: 20px;
+ }
+ .data2{
+ 	margin-right: 50px;
+ 	color: white;
+ 	font-weight: bold;
+ }
+ /*   -------------------------------3333333333333333333333333333-----------------*/
+.desig{
+	display:  flex;
+	padding: 50px 20px;
+	width: 100%;
+	text-align: center;
+	border-style: solid;
+border-radius: 25px;
+border-top-width: 1.5px;
+justify-content: center;
+}
+.desig:hover{
+	border-color: rgb(255,255,0);
+}
+
+.head3{
+	padding-top: 20px;
+	color: white;
+
+}
+.data3{
+	text-align: center;
+	padding-right: 50px;
+	margin-left: 75px;
+	color: white;
+}
+
+
+/* 	transform: rotate3d(0, 0, 1, 180deg);
+ 
+}
+.projects:hover{
+	transform: rotate3d(0, 0, 1, 0deg);
+ 
+ */
